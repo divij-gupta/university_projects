@@ -1,0 +1,19 @@
+figure.facecolor : white
+figure.labelsize : 16
+figure.titlesize : 18
+figure.figsize : 8, 6
+font.family : Times New Roman
+font.size : 14
+axes.labelcolor : black
+axes.labelsize : 14
+axes.titlecolor : black
+axes.titlesize : 16
+savefig.facecolor : white
+xtick.color : black
+xtick.labelcolor : black
+xtick.labelsize : 11
+ytick.color : black
+ytick.labelcolor : black
+ytick.labelsize : 11
+mathtext.fontset : stix
+axes.unicode_minus : False
